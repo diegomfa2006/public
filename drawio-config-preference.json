@@ -1,0 +1,65 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [
+    {
+      "name": "Montserrat",
+      "url": "https://fonts.googleapis.com/css?family=Montserrat"
+    },
+    {
+      "name": "Montserrat:wght@700",
+      "url": "https://fonts.googleapis.com/css?family=Montserrat%3Awght%40700"
+    },
+    {
+      "name": "Bebas Neue",
+      "url": "https://fonts.googleapis.com/css?family=Bebas+Neue"
+    },
+    {
+      "name": "Kaushan Script",
+      "url": "https://fonts.googleapis.com/css?family=Kaushan+Script"
+    },
+    {
+      "name": "Patrick Hand",
+      "url": "https://fonts.googleapis.com/css?family=Patrick+Hand"
+    }
+  ],
+  "libraries": "general;basic;arrows2;flowchart;c4;er;uml",
+  "customLibraries": [
+    "L.scratchpad"
+  ],
+  "plugins": [],
+  "recentColors": [
+    "FF00FF",
+    "FF42FF",
+    "666666",
+    "F9844A",
+    "31BA73",
+    "FFF3F2",
+    "FFCCCC",
+    "FFE0FD",
+    "FFCCE6",
+    "F94144",
+    "94DBE0"
+  ],
+  "formatWidth": 240,
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 850,
+    "height": 1100
+  },
+  "search": true,
+  "showStartScreen": true,
+  "gridColor": "#d0d0d0",
+  "darkGridColor": "#6e6e6e",
+  "autosave": false,
+  "resizeImages": null,
+  "openCounter": 267,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "ui": "kennedy",
+  "sketchMode": false,
+  "darkMode": false
+}
