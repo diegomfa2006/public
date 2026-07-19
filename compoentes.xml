@@ -1,0 +1,17 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;spacingLeft=26;\" value=\"&amp;lt;font face=&amp;quot;League Gothic&amp;quot; data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=League+Gothic&amp;quot;&amp;gt;µ&amp;lt;/font&amp;gt;&amp;lt;div&amp;gt;&amp;lt;font style=&amp;quot;font-size: 8px;&amp;quot; data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Hind&amp;quot; face=&amp;quot;Hind&amp;quot;&amp;gt;&amp;amp;lt;&amp;amp;lt;micro&amp;amp;gt;&amp;amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=12;absoluteArcSize=1;dashed=1;strokeColor=#3399FF;dashPattern=8 8;container=1;recursiveResize=0;collapsible=0;align=left;verticalAlign=top;fontColor=#3399FF;spacingLeft=6;spacing=0;\" value=\"&amp;lt;font face=&amp;quot;League Gothic&amp;quot;&amp;gt;Componente&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"120\" width=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 120
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=12;absoluteArcSize=1;dashed=1;strokeColor=#3399FF;dashPattern=8 8;container=1;recursiveResize=0;collapsible=0;align=left;verticalAlign=top;spacingLeft=26;fontColor=#3399FF;spacing=0;\" value=\"&amp;lt;font face=&amp;quot;League Gothic&amp;quot;&amp;gt;Componente&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"120\" width=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 120
+  }
+]</mxlibrary>
