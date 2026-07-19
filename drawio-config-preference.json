@@ -3,16 +3,24 @@
   "configVersion": null,
   "customFonts": [
     {
-      "name": "Montserrat",
-      "url": "https://fonts.googleapis.com/css?family=Montserrat"
-    },
-    {
-      "name": "Montserrat:wght@700",
-      "url": "https://fonts.googleapis.com/css?family=Montserrat%3Awght%40700"
+      "name": "Architects Daughter",
+      "url": "https://fonts.googleapis.com/css?family=Architects+Daughter"
     },
     {
       "name": "Bebas Neue",
       "url": "https://fonts.googleapis.com/css?family=Bebas+Neue"
+    },
+    {
+      "name": "Hind",
+      "url": "https://fonts.googleapis.com/css?family=Hind"
+    },
+    {
+      "name": "League Gothic",
+      "url": "https://fonts.googleapis.com/css?family=League+Gothic"
+    },
+    {
+      "name": "Montserrat",
+      "url": "https://fonts.googleapis.com/css?family=Montserrat"
     },
     {
       "name": "Kaushan Script",
