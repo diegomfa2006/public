@@ -13,5 +13,10 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=12;absoluteArcSize=1;dashed=1;strokeColor=#3399FF;dashPattern=8 8;container=1;recursiveResize=0;collapsible=0;align=left;verticalAlign=top;spacingLeft=26;fontColor=#3399FF;spacing=0;\" value=\"&amp;lt;font face=&amp;quot;League Gothic&amp;quot;&amp;gt;Componente&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"120\" width=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 200,
     "h": 120
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=stencil(vZXdjsIgEIWfhtsNP3G9Nl19D1ZHSxaBAOr69ktLa4TauibFmyZzZvgYDmSKWOVqbgBRXCP2hSglFIdviC9ZzJ2BrY/imVvBvyXEjPNW/8BF7HzHEKoGK3yTZWuEV6hhYMSqrVYqQIRWLsnc5QOMCxXW4t8I67a/JpEJ/CN4sImK6Ob/2A+6KEUuBl4WIpO3YG+Oz08uBl7ORh7cHin14GYE01LkcjaXehk5+LXHzKqgjI0/Vu21hYPVJ7V72A9IKYy7m9Kf6ZDuw65V9nBmjh12L6SMI3yiyPBmuA8SffqozzBmFZlu4Ob5yUYGSSFduOiPSDPqlWYFLC/IhSd9SO2mnAj6iBlPrGyXDi66VeM/uBX+AA==);whiteSpace=wrap;html=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"120\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120
   }
 ]</mxlibrary>
