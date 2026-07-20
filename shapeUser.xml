@@ -1,0 +1,35 @@
+<shape h="120" w="120" aspect="variable" strokewidth="inherit">
+    <connections>
+        <constraint x="0" y="0" perimeter="0" name="sup-izq"/>
+        <constraint x="0.25" y="0" perimeter="0" name="sup-1"/>
+        <constraint x="0.5" y="0" perimeter="0" name="sup"/>
+        <constraint x="0.75" y="0" perimeter="0" name="sup-2"/>
+        <constraint x="1" y="0" perimeter="0" name="sup-der"/>
+        
+        <!-- Lado derecho (5 puntos, sin repetir esquinas) -->
+        <constraint x="1" y="0.25" perimeter="0" name="der-1"/>
+        <constraint x="1" y="0.5" perimeter="0" name="der"/>
+        <constraint x="1" y="0.75" perimeter="0" name="der-2"/>
+        
+        <!-- Lado inferior (5 puntos, sin repetir esquinas) -->
+        <constraint x="0.75" y="1" perimeter="0" name="inf-2"/>
+        <constraint x="0.5" y="1" perimeter="0" name="inf"/>
+        <constraint x="0.25" y="1" perimeter="0" name="inf-1"/>
+        
+        <!-- Lado izquierdo (5 puntos, sin repetir esquinas) -->
+        <constraint x="0" y="0.75" perimeter="0" name="izq-2"/>
+        <constraint x="0" y="0.5" perimeter="0" name="izq"/>
+        <constraint x="0" y="0.25" perimeter="0" name="izq-1"/>
+    </connections>
+
+    <foreground>
+        <ellipse h="60" w="60" x="30" y="0" />
+        <fillstroke />
+        <path>
+            <move x="0" y="120" />
+            <curve x1="0" y1="50" x2="120" y2="50" x3="120" y3="120" />
+            <close />
+        </path>
+        <fillstroke />
+    </foreground>
+</shape>
