@@ -1,0 +1,54 @@
+{
+  "language": "",
+  "customFonts": [
+    {
+      "name": "Architects Daughter",
+      "url": "https://fonts.googleapis.com/css?family=Architects+Daughter"
+    },
+    {
+      "name": "Bebas Neue",
+      "url": "https://fonts.googleapis.com/css?family=Bebas+Neue"
+    },
+    {
+      "name": "Hind",
+      "url": "https://fonts.googleapis.com/css?family=Hind"
+    },
+    {
+      "name": "League Gothic",
+      "url": "https://fonts.googleapis.com/css?family=League+Gothic"
+    },
+    {
+      "name": "Montserrat",
+      "url": "https://fonts.googleapis.com/css?family=Montserrat"
+    }
+  ],
+  "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+  "customLibraries": [
+    "L.scratchpad"
+  ],
+  "plugins": [],
+  "recentColors": [],
+  "formatWidth": "240",
+  "sidebarWidth": null,
+  "collapsedSections": {},
+  "collapsedLibraries": {},
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 827,
+    "height": 1169
+  },
+  "search": true,
+  "gridColor": "#e6e6e6",
+  "darkGridColor": "#424242",
+  "darkMode": false,
+  "autosave": false,
+  "resizeImages": null,
+  "openCounter": 5,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "windowStates": {},
+  "currentEdgeStyle": null,
+  "ui": ""
+}
