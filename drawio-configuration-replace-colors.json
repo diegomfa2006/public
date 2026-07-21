@@ -168,6 +168,48 @@
         "stroke": "#EF5235",
         "font": "#FFFFFF"
       }
+    ],
+    [
+      {
+        "fill": "#fefefe",
+        "stroke": "#fefefe",
+        "font": "#2c283f"
+      },
+      {
+        "fill": "#2c283f",
+        "stroke": "#2c283f",
+        "font": "#fefefe"
+      },
+      {
+        "fill": "#00a9e7",
+        "stroke": "#00a9e7",
+        "font": "#fefefe"
+      },
+      {
+        "fill": "#fedb39",
+        "stroke": "#fedb39",
+        "font": "#2c283f"
+      },
+      {
+        "fill": "#b35ba5",
+        "stroke": "#b35ba5",
+        "font": "#fefefe"
+      },
+      {
+        "fill": "#75be4d",
+        "stroke": "#75be4d",
+        "font": "#2c283f"
+      },
+      {
+        "fill": "#f6873e",
+        "stroke": "#f6873e",
+        "font": "#fefefe"
+      },
+      {
+        "fill": "#e4306e",
+        "stroke": "#e4306e",
+        "font": "#fefefe"
+      }
     ]
   ]
 }
